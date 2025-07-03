@@ -3,6 +3,7 @@ data.zip
 output/
 data/
 
+
 # Ігнорувати системні файли
 .DS_Store
 
