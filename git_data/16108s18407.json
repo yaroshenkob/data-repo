@@ -1,0 +1,41 @@
+{
+  "id": "16108s18407",
+  "title": "Дитячий іграшковий трактор 3800TXK, 2 види Зелений",
+  "vendorCode": "3800TXK(Green)",
+  "price": "109",
+  "old_price": "0",
+  "available": true,
+  "description_ua": "Маленький веселий трактор - цікава іграшка для малюків.",
+  "categoryBaza_id": "44",
+  "categoryBaza": "Іграшки для хлопчиків",
+  "categoryId": "342",
+  "country_of_origin": "Україна",
+  "pictureMY": [
+    "52747.970.jpg"
+  ],
+  "myURL": "dityachiy-igrashkoviy-traktor-3800txk-2-vidi--zeleniy3800TXKGreen",
+  "params": {
+    "Вага товару": "0.29",
+    "Габарити: довжина": "15",
+    "Габарити: ширина": "25",
+    "Габарити: висота": "16",
+    "Стан": "нове",
+    "Матеріал": "пластик",
+    "Тип": "Трактор",
+    "Колір": "Різні кольори",
+    "Вік": "Від 1 року",
+    "Гарантія": "14 днів",
+    "Стать": "Для хлопчиків",
+    "Країна реєстрації бренду": "Україна",
+    "Країна-виробник товару": "Україна",
+    "Найменування різновиду": "Зелений"
+  },
+  "category_info": {
+    "id": "44",
+    "name": "Іграшки для хлопчиків",
+    "data_href": "./dlya-khlopchykiv"
+  },
+  "url": "https://kiko-store.com.ua/dlya-khlopchykiv/dityachiy-igrashkoviy-traktor-3800txk-2-vidi--zeleniy3800TXKGreen",
+  "created_at": "2025-09-10T21:05:57.744Z",
+  "updated_at": "2025-09-10T21:05:57.744Z"
+}
